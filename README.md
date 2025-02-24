@@ -36,9 +36,9 @@ I'm an aspiring Full Stack Developer with a passion for writing clean code and f
   - Figma
 
 ## Projects
-- [Music App](https://jili0.me/musicApp/): Team project. Typescript.
-- [Portfolio](https://tailwind-portfolio-koi2.onrender.com/): Tailwind CSS.
-- [Amazing Shop](https://amazing-shop.onrender.com/): React, Sass.
+- [Music App](https://jingli.work/musicApp/): Typescript (Team project)
+- [Amazing Shop](https://amazing-shop.onrender.com/): React & Sass
+- [Markdown Previewer](https://markdown-previewer-a9ax.onrender.com/): React & Sass
 
 ## Contact
 - 👨‍💻 All of my projects are available at: [jingli.work](https://jingli.work)
