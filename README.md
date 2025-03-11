@@ -7,6 +7,8 @@ These are the most important projects I've recently worked on and are highlighte
 | 1      | **Music App**         | [jingli.work/music-app](https://jingli.work/music-app)         | [github.com/jili0/music-app](https://github.com/jili0/music-app)   | Typescript, CSS         | A web-based music player that allows users to listen to their favorite tracks. Includes features like playlists and song search function. Team-project developed together with Dursel Türkan and Mame Angelique Guisse  |
 | 2      | **Markdown Previewer**| [markdown-previewer-a9ax.onrender.com](https://markdown-previewer-a9ax.onrender.com) | [github.com/jili0/markdown-previewer](https://github.com/jili0/markdown-previewer) | React, Marked.js        | A live markdown previewer that instantly shows your markdown syntax in real-time. Built with React and powered by marked.js for markdown parsing. |
 | 3      | **Amazing Shop App**  | [amazing-shop.onrender.com](https://amazing-shop.onrender.com)  | [github.com/jili0/amazing-shop](https://github.com/jili0/amazing-shop) | React, Node.js, SASS    | An e-commerce platform with a beautiful UI/UX. Includes product listings and add to cart function. |
+| 4      | **Pawpose**  | [pawpose.onrender.com](https://pawpose.onrender.com)  | [github.com/jili0/pawpose](https://github.com/jili0/pawpose) | React, Node.js, Typescript    |  🐾 PawPals – Finde das perfekte Zuhause für Hunde! |
+| 5      | **Pawpose Backend**  | [pawpose-backend.onrender.com](https://pawpose-backend.onrender.com)  | [github.com/jili0/pawpose-backend](https://github.com/jili0/pawpose-backend) |  Node.js, Express.js    |  🐾  This is the backend for the Pawpose app, built with Node.js and Express. |
 
 
 
