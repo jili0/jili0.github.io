@@ -1,4 +1,4 @@
-# 🚀 Pinned Projects
+# Recent Projects
 
 These are the most important projects I've recently worked on and are highlighted because they showcase key skills and ideas.
 
@@ -10,7 +10,7 @@ These are the most important projects I've recently worked on and are highlighte
 | 4      | **Pawpose**  | [pawpose.onrender.com](https://pawpose.onrender.com)  | [github.com/jili0/pawpose](https://github.com/jili0/pawpose) | React, Node.js, Typescript    |  🐾 PawPals – Finde das perfekte Zuhause für Hunde! |
 
 
-# 💻 Other Projects
+# Other Projects
 
 Below are all of my other projects, ranging from small utilities to more complex apps. These projects were created to learn and showcase different technologies. I'm still working on some of them.
 
